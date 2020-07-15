@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
     list[s - 1].str = argv[s];
   }
 
-  // Yucky sort
+  // Sucky sort
   for (uint32_t i = 0; i < MAX && list[i].str != NULL; i++) {
     for (uint32_t j = 0; j < MAX && list[j].str != NULL; j++) {
       if (list[j].sum > list[i].sum) {
