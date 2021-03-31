@@ -13,5 +13,3 @@ ABCD 	[65 66 67 68]	->	266
 XYZ 	[88 89 90]	->	267
 abc 	[97 98 99]	->	294
 ```
-
-**PRs welcome** and please include comments. :monkey:
