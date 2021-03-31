@@ -1,8 +1,5 @@
 Short program to **sort strings** (stdin) **by weight** (sum of chars in string).
 
-This is **completely useless** but serves as a simple showcase of C including its *typedefs, structs, macros, loops, and syntax abuse.*
-
-
 How it works:
 ```
 $ wsort XYZ abc ABCD ... 123
